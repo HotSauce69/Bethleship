@@ -1,13 +1,1 @@
-Add different sized ship - DONE
-
-Add multiple ships
-
-Make 2 player mode
-
-make vs AI mode
-
--- add easy/hard modes
-
-Implement proper coordinates (B2, F3, etc) and no 0s (start at 1)
-
-Make it pretty
+Completely rewrite the game to take a more sophisticated and efficient approach.
