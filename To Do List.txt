@@ -1,4 +1,4 @@
-Add different sized ship
+Add different sized ship - DONE
 
 Add multiple ships
 
