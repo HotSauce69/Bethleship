@@ -1,4 +1,6 @@
-Add different sized ships
+Add different sized ship
+
+Add multiple ships
 
 Make 2 player mode
 
