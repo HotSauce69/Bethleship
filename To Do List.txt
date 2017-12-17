@@ -4,6 +4,8 @@ Add multiple ships
 
 Make 2 player mode
 
+make vs AI mode
+
 Implement proper coordinates (B2, F3, etc) and no 0s (start at 1)
 
 Make it pretty
